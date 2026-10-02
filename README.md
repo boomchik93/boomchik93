@@ -7,7 +7,6 @@
 Делаю сервисы на локальных моделях: распознавание рукописи, транскрибация встреч, поиск и ранжирование. Данные не уходят в облако, всё крутится на своём железе.
 
 <a href="https://semenovm.ru"><img src="https://img.shields.io/badge/сайт-semenovm.ru-0A0A0A?style=flat&logo=googlechrome&logoColor=white" alt="сайт"></a>
-<a href="https://cv.semenovm.ru"><img src="https://img.shields.io/badge/резюме-cv.semenovm.ru-0A0A0A?style=flat&logo=readdotcv&logoColor=white" alt="резюме"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
